@@ -1,0 +1,1242 @@
+import _frozen_importlib # frozen
+import _imp # builtin
+import sys # builtin
+import '_warnings' # <class '_frozen_importlib.BuiltinImporter'>
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+import '_frozen_importlib_external' # <class '_frozen_importlib.FrozenImporter'>
+import '_io' # <class '_frozen_importlib.BuiltinImporter'>
+import 'marshal' # <class '_frozen_importlib.BuiltinImporter'>
+import 'posix' # <class '_frozen_importlib.BuiltinImporter'>
+import _thread # previously loaded ('_thread')
+import '_thread' # <class '_frozen_importlib.BuiltinImporter'>
+import _weakref # previously loaded ('_weakref')
+import '_weakref' # <class '_frozen_importlib.BuiltinImporter'>
+# installing zipimport hook
+import 'zipimport' # <class '_frozen_importlib.BuiltinImporter'>
+# installed zipimport hook
+# /usr/local/lib/python3.6/encodings/__pycache__/__init__.cpython-36.pyc matches /usr/local/lib/python3.6/encodings/__init__.py
+# code object from '/usr/local/lib/python3.6/encodings/__pycache__/__init__.cpython-36.pyc'
+# trying /usr/local/lib/python3.6/codecs.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/codecs.abi3.so
+# trying /usr/local/lib/python3.6/codecs.so
+# trying /usr/local/lib/python3.6/codecs.py
+# /usr/local/lib/python3.6/__pycache__/codecs.cpython-36.pyc matches /usr/local/lib/python3.6/codecs.py
+# code object from '/usr/local/lib/python3.6/__pycache__/codecs.cpython-36.pyc'
+import '_codecs' # <class '_frozen_importlib.BuiltinImporter'>
+import 'codecs' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b288bfd0>
+# trying /usr/local/lib/python3.6/encodings/aliases.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/encodings/aliases.abi3.so
+# trying /usr/local/lib/python3.6/encodings/aliases.so
+# trying /usr/local/lib/python3.6/encodings/aliases.py
+# /usr/local/lib/python3.6/encodings/__pycache__/aliases.cpython-36.pyc matches /usr/local/lib/python3.6/encodings/aliases.py
+# code object from '/usr/local/lib/python3.6/encodings/__pycache__/aliases.cpython-36.pyc'
+import 'encodings.aliases' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2822978>
+import 'encodings' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b288bb00>
+# trying /usr/local/lib/python3.6/encodings/utf_8.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/encodings/utf_8.abi3.so
+# trying /usr/local/lib/python3.6/encodings/utf_8.so
+# trying /usr/local/lib/python3.6/encodings/utf_8.py
+# /usr/local/lib/python3.6/encodings/__pycache__/utf_8.cpython-36.pyc matches /usr/local/lib/python3.6/encodings/utf_8.py
+# code object from '/usr/local/lib/python3.6/encodings/__pycache__/utf_8.cpython-36.pyc'
+import 'encodings.utf_8' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2830780>
+import '_signal' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /usr/local/lib/python3.6/encodings/latin_1.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/encodings/latin_1.abi3.so
+# trying /usr/local/lib/python3.6/encodings/latin_1.so
+# trying /usr/local/lib/python3.6/encodings/latin_1.py
+# /usr/local/lib/python3.6/encodings/__pycache__/latin_1.cpython-36.pyc matches /usr/local/lib/python3.6/encodings/latin_1.py
+# code object from '/usr/local/lib/python3.6/encodings/__pycache__/latin_1.cpython-36.pyc'
+import 'encodings.latin_1' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b28362e8>
+# trying /usr/local/lib/python3.6/io.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/io.abi3.so
+# trying /usr/local/lib/python3.6/io.so
+# trying /usr/local/lib/python3.6/io.py
+# /usr/local/lib/python3.6/__pycache__/io.cpython-36.pyc matches /usr/local/lib/python3.6/io.py
+# code object from '/usr/local/lib/python3.6/__pycache__/io.cpython-36.pyc'
+# trying /usr/local/lib/python3.6/abc.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/abc.abi3.so
+# trying /usr/local/lib/python3.6/abc.so
+# trying /usr/local/lib/python3.6/abc.py
+# /usr/local/lib/python3.6/__pycache__/abc.cpython-36.pyc matches /usr/local/lib/python3.6/abc.py
+# code object from '/usr/local/lib/python3.6/__pycache__/abc.cpython-36.pyc'
+# trying /usr/local/lib/python3.6/_weakrefset.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_weakrefset.abi3.so
+# trying /usr/local/lib/python3.6/_weakrefset.so
+# trying /usr/local/lib/python3.6/_weakrefset.py
+# /usr/local/lib/python3.6/__pycache__/_weakrefset.cpython-36.pyc matches /usr/local/lib/python3.6/_weakrefset.py
+# code object from '/usr/local/lib/python3.6/__pycache__/_weakrefset.cpython-36.pyc'
+import '_weakrefset' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b283c240>
+import 'abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b28368d0>
+import 'io' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2836518>
+# trying /usr/local/lib/python3.6/_bootlocale.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_bootlocale.abi3.so
+# trying /usr/local/lib/python3.6/_bootlocale.so
+# trying /usr/local/lib/python3.6/_bootlocale.py
+# /usr/local/lib/python3.6/__pycache__/_bootlocale.cpython-36.pyc matches /usr/local/lib/python3.6/_bootlocale.py
+# code object from '/usr/local/lib/python3.6/__pycache__/_bootlocale.cpython-36.pyc'
+import '_locale' # <class '_frozen_importlib.BuiltinImporter'>
+import '_bootlocale' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2840978>
+Python 3.6.0 (default, Feb 24 2017, 20:14:21) 
+[GCC 4.9.2] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+# trying /usr/local/lib/python3.6/site.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/site.abi3.so
+# trying /usr/local/lib/python3.6/site.so
+# trying /usr/local/lib/python3.6/site.py
+# /usr/local/lib/python3.6/__pycache__/site.cpython-36.pyc matches /usr/local/lib/python3.6/site.py
+# code object from '/usr/local/lib/python3.6/__pycache__/site.cpython-36.pyc'
+# trying /usr/local/lib/python3.6/os.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/os.abi3.so
+# trying /usr/local/lib/python3.6/os.so
+# trying /usr/local/lib/python3.6/os.py
+# /usr/local/lib/python3.6/__pycache__/os.cpython-36.pyc matches /usr/local/lib/python3.6/os.py
+# code object from '/usr/local/lib/python3.6/__pycache__/os.cpython-36.pyc'
+import 'errno' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /usr/local/lib/python3.6/stat.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/stat.abi3.so
+# trying /usr/local/lib/python3.6/stat.so
+# trying /usr/local/lib/python3.6/stat.py
+# /usr/local/lib/python3.6/__pycache__/stat.cpython-36.pyc matches /usr/local/lib/python3.6/stat.py
+# code object from '/usr/local/lib/python3.6/__pycache__/stat.cpython-36.pyc'
+import '_stat' # <class '_frozen_importlib.BuiltinImporter'>
+import 'stat' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b27e32e8>
+# trying /usr/local/lib/python3.6/posixpath.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/posixpath.abi3.so
+# trying /usr/local/lib/python3.6/posixpath.so
+# trying /usr/local/lib/python3.6/posixpath.py
+# /usr/local/lib/python3.6/__pycache__/posixpath.cpython-36.pyc matches /usr/local/lib/python3.6/posixpath.py
+# code object from '/usr/local/lib/python3.6/__pycache__/posixpath.cpython-36.pyc'
+# trying /usr/local/lib/python3.6/genericpath.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/genericpath.abi3.so
+# trying /usr/local/lib/python3.6/genericpath.so
+# trying /usr/local/lib/python3.6/genericpath.py
+# /usr/local/lib/python3.6/__pycache__/genericpath.cpython-36.pyc matches /usr/local/lib/python3.6/genericpath.py
+# code object from '/usr/local/lib/python3.6/__pycache__/genericpath.cpython-36.pyc'
+import 'genericpath' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b27e8c88>
+import 'posixpath' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b27e3978>
+# trying /usr/local/lib/python3.6/_collections_abc.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_collections_abc.abi3.so
+# trying /usr/local/lib/python3.6/_collections_abc.so
+# trying /usr/local/lib/python3.6/_collections_abc.py
+# /usr/local/lib/python3.6/__pycache__/_collections_abc.cpython-36.pyc matches /usr/local/lib/python3.6/_collections_abc.py
+# code object from '/usr/local/lib/python3.6/__pycache__/_collections_abc.cpython-36.pyc'
+import '_collections_abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b27f22e8>
+import 'os' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b27d2be0>
+# trying /usr/local/lib/python3.6/_sitebuiltins.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_sitebuiltins.abi3.so
+# trying /usr/local/lib/python3.6/_sitebuiltins.so
+# trying /usr/local/lib/python3.6/_sitebuiltins.py
+# /usr/local/lib/python3.6/__pycache__/_sitebuiltins.cpython-36.pyc matches /usr/local/lib/python3.6/_sitebuiltins.py
+# code object from '/usr/local/lib/python3.6/__pycache__/_sitebuiltins.cpython-36.pyc'
+import '_sitebuiltins' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b27d2f98>
+# trying /usr/local/lib/python3.6/sysconfig.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/sysconfig.abi3.so
+# trying /usr/local/lib/python3.6/sysconfig.so
+# trying /usr/local/lib/python3.6/sysconfig.py
+# /usr/local/lib/python3.6/__pycache__/sysconfig.cpython-36.pyc matches /usr/local/lib/python3.6/sysconfig.py
+# code object from '/usr/local/lib/python3.6/__pycache__/sysconfig.cpython-36.pyc'
+import 'sysconfig' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b27826a0>
+# trying /usr/local/lib/python3.6/_sysconfigdata_m_linux_x86_64-linux-gnu.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_sysconfigdata_m_linux_x86_64-linux-gnu.abi3.so
+# trying /usr/local/lib/python3.6/_sysconfigdata_m_linux_x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_sysconfigdata_m_linux_x86_64-linux-gnu.py
+# /usr/local/lib/python3.6/__pycache__/_sysconfigdata_m_linux_x86_64-linux-gnu.cpython-36.pyc matches /usr/local/lib/python3.6/_sysconfigdata_m_linux_x86_64-linux-gnu.py
+# code object from '/usr/local/lib/python3.6/__pycache__/_sysconfigdata_m_linux_x86_64-linux-gnu.cpython-36.pyc'
+import '_sysconfigdata_m_linux_x86_64-linux-gnu' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2792f98>
+# trying /usr/local/lib/python3.6/sitecustomize.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/sitecustomize.abi3.so
+# trying /usr/local/lib/python3.6/sitecustomize.so
+# trying /usr/local/lib/python3.6/sitecustomize.py
+# trying /usr/local/lib/python3.6/sitecustomize.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/sitecustomize.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/sitecustomize.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/sitecustomize.so
+# trying /usr/local/lib/python3.6/lib-dynload/sitecustomize.py
+# trying /usr/local/lib/python3.6/lib-dynload/sitecustomize.pyc
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/sitecustomize.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/sitecustomize.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/sitecustomize.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/sitecustomize.py
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/sitecustomize.pyc
+import 'site' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b284e908>
+# trying /home/educacion/kickthemout/logging.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/logging.abi3.so
+# trying /home/educacion/kickthemout/logging.so
+# trying /home/educacion/kickthemout/logging.py
+# trying /home/educacion/kickthemout/logging.pyc
+# /usr/local/lib/python3.6/logging/__pycache__/__init__.cpython-36.pyc matches /usr/local/lib/python3.6/logging/__init__.py
+# code object from '/usr/local/lib/python3.6/logging/__pycache__/__init__.cpython-36.pyc'
+import 'time' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /home/educacion/kickthemout/traceback.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/traceback.abi3.so
+# trying /home/educacion/kickthemout/traceback.so
+# trying /home/educacion/kickthemout/traceback.py
+# trying /home/educacion/kickthemout/traceback.pyc
+# trying /usr/local/lib/python3.6/traceback.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/traceback.abi3.so
+# trying /usr/local/lib/python3.6/traceback.so
+# trying /usr/local/lib/python3.6/traceback.py
+# /usr/local/lib/python3.6/__pycache__/traceback.cpython-36.pyc matches /usr/local/lib/python3.6/traceback.py
+# code object from '/usr/local/lib/python3.6/__pycache__/traceback.cpython-36.pyc'
+# trying /home/educacion/kickthemout/collections.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/collections.abi3.so
+# trying /home/educacion/kickthemout/collections.so
+# trying /home/educacion/kickthemout/collections.py
+# trying /home/educacion/kickthemout/collections.pyc
+# /usr/local/lib/python3.6/collections/__pycache__/__init__.cpython-36.pyc matches /usr/local/lib/python3.6/collections/__init__.py
+# code object from '/usr/local/lib/python3.6/collections/__pycache__/__init__.cpython-36.pyc'
+# trying /home/educacion/kickthemout/operator.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/operator.abi3.so
+# trying /home/educacion/kickthemout/operator.so
+# trying /home/educacion/kickthemout/operator.py
+# trying /home/educacion/kickthemout/operator.pyc
+# trying /usr/local/lib/python3.6/operator.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/operator.abi3.so
+# trying /usr/local/lib/python3.6/operator.so
+# trying /usr/local/lib/python3.6/operator.py
+# /usr/local/lib/python3.6/__pycache__/operator.cpython-36.pyc matches /usr/local/lib/python3.6/operator.py
+# code object from '/usr/local/lib/python3.6/__pycache__/operator.cpython-36.pyc'
+import '_operator' # <class '_frozen_importlib.BuiltinImporter'>
+import 'operator' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b273b898>
+# trying /home/educacion/kickthemout/keyword.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/keyword.abi3.so
+# trying /home/educacion/kickthemout/keyword.so
+# trying /home/educacion/kickthemout/keyword.py
+# trying /home/educacion/kickthemout/keyword.pyc
+# trying /usr/local/lib/python3.6/keyword.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/keyword.abi3.so
+# trying /usr/local/lib/python3.6/keyword.so
+# trying /usr/local/lib/python3.6/keyword.py
+# /usr/local/lib/python3.6/__pycache__/keyword.cpython-36.pyc matches /usr/local/lib/python3.6/keyword.py
+# code object from '/usr/local/lib/python3.6/__pycache__/keyword.cpython-36.pyc'
+import 'keyword' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2742b00>
+# trying /home/educacion/kickthemout/heapq.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/heapq.abi3.so
+# trying /home/educacion/kickthemout/heapq.so
+# trying /home/educacion/kickthemout/heapq.py
+# trying /home/educacion/kickthemout/heapq.pyc
+# trying /usr/local/lib/python3.6/heapq.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/heapq.abi3.so
+# trying /usr/local/lib/python3.6/heapq.so
+# trying /usr/local/lib/python3.6/heapq.py
+# /usr/local/lib/python3.6/__pycache__/heapq.cpython-36.pyc matches /usr/local/lib/python3.6/heapq.py
+# code object from '/usr/local/lib/python3.6/__pycache__/heapq.cpython-36.pyc'
+# trying /home/educacion/kickthemout/_heapq.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_heapq.abi3.so
+# trying /home/educacion/kickthemout/_heapq.so
+# trying /home/educacion/kickthemout/_heapq.py
+# trying /home/educacion/kickthemout/_heapq.pyc
+# trying /usr/local/lib/python3.6/_heapq.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_heapq.abi3.so
+# trying /usr/local/lib/python3.6/_heapq.so
+# trying /usr/local/lib/python3.6/_heapq.py
+# trying /usr/local/lib/python3.6/_heapq.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_heapq.cpython-36m-x86_64-linux-gnu.so
+# extension module '_heapq' loaded from '/usr/local/lib/python3.6/lib-dynload/_heapq.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_heapq' executed from '/usr/local/lib/python3.6/lib-dynload/_heapq.cpython-36m-x86_64-linux-gnu.so'
+import '_heapq' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b27477b8>
+import 'heapq' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b27472e8>
+import 'itertools' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /home/educacion/kickthemout/reprlib.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/reprlib.abi3.so
+# trying /home/educacion/kickthemout/reprlib.so
+# trying /home/educacion/kickthemout/reprlib.py
+# trying /home/educacion/kickthemout/reprlib.pyc
+# trying /usr/local/lib/python3.6/reprlib.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/reprlib.abi3.so
+# trying /usr/local/lib/python3.6/reprlib.so
+# trying /usr/local/lib/python3.6/reprlib.py
+# /usr/local/lib/python3.6/__pycache__/reprlib.cpython-36.pyc matches /usr/local/lib/python3.6/reprlib.py
+# code object from '/usr/local/lib/python3.6/__pycache__/reprlib.cpython-36.pyc'
+import 'reprlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2747860>
+import '_collections' # <class '_frozen_importlib.BuiltinImporter'>
+import 'collections' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b261aef0>
+# trying /home/educacion/kickthemout/linecache.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/linecache.abi3.so
+# trying /home/educacion/kickthemout/linecache.so
+# trying /home/educacion/kickthemout/linecache.py
+# trying /home/educacion/kickthemout/linecache.pyc
+# trying /usr/local/lib/python3.6/linecache.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/linecache.abi3.so
+# trying /usr/local/lib/python3.6/linecache.so
+# trying /usr/local/lib/python3.6/linecache.py
+# /usr/local/lib/python3.6/__pycache__/linecache.cpython-36.pyc matches /usr/local/lib/python3.6/linecache.py
+# code object from '/usr/local/lib/python3.6/__pycache__/linecache.cpython-36.pyc'
+# trying /home/educacion/kickthemout/functools.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/functools.abi3.so
+# trying /home/educacion/kickthemout/functools.so
+# trying /home/educacion/kickthemout/functools.py
+# trying /home/educacion/kickthemout/functools.pyc
+# trying /usr/local/lib/python3.6/functools.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/functools.abi3.so
+# trying /usr/local/lib/python3.6/functools.so
+# trying /usr/local/lib/python3.6/functools.py
+# /usr/local/lib/python3.6/__pycache__/functools.cpython-36.pyc matches /usr/local/lib/python3.6/functools.py
+# code object from '/usr/local/lib/python3.6/__pycache__/functools.cpython-36.pyc'
+import '_functools' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /home/educacion/kickthemout/types.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/types.abi3.so
+# trying /home/educacion/kickthemout/types.so
+# trying /home/educacion/kickthemout/types.py
+# trying /home/educacion/kickthemout/types.pyc
+# trying /usr/local/lib/python3.6/types.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/types.abi3.so
+# trying /usr/local/lib/python3.6/types.so
+# trying /usr/local/lib/python3.6/types.py
+# /usr/local/lib/python3.6/__pycache__/types.cpython-36.pyc matches /usr/local/lib/python3.6/types.py
+# code object from '/usr/local/lib/python3.6/__pycache__/types.cpython-36.pyc'
+# trying /usr/local/lib/python3.6/collections/abc.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/collections/abc.abi3.so
+# trying /usr/local/lib/python3.6/collections/abc.so
+# trying /usr/local/lib/python3.6/collections/abc.py
+# /usr/local/lib/python3.6/collections/__pycache__/abc.cpython-36.pyc matches /usr/local/lib/python3.6/collections/abc.py
+# code object from '/usr/local/lib/python3.6/collections/__pycache__/abc.cpython-36.pyc'
+import 'collections.abc' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b26f5400>
+import 'types' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b26edac8>
+# trying /home/educacion/kickthemout/weakref.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/weakref.abi3.so
+# trying /home/educacion/kickthemout/weakref.so
+# trying /home/educacion/kickthemout/weakref.py
+# trying /home/educacion/kickthemout/weakref.pyc
+# trying /usr/local/lib/python3.6/weakref.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/weakref.abi3.so
+# trying /usr/local/lib/python3.6/weakref.so
+# trying /usr/local/lib/python3.6/weakref.py
+# /usr/local/lib/python3.6/__pycache__/weakref.cpython-36.pyc matches /usr/local/lib/python3.6/weakref.py
+# code object from '/usr/local/lib/python3.6/__pycache__/weakref.cpython-36.pyc'
+import 'weakref' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b26edc18>
+import 'functools' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2752588>
+# trying /home/educacion/kickthemout/tokenize.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/tokenize.abi3.so
+# trying /home/educacion/kickthemout/tokenize.so
+# trying /home/educacion/kickthemout/tokenize.py
+# trying /home/educacion/kickthemout/tokenize.pyc
+# trying /usr/local/lib/python3.6/tokenize.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/tokenize.abi3.so
+# trying /usr/local/lib/python3.6/tokenize.so
+# trying /usr/local/lib/python3.6/tokenize.py
+# /usr/local/lib/python3.6/__pycache__/tokenize.cpython-36.pyc matches /usr/local/lib/python3.6/tokenize.py
+# code object from '/usr/local/lib/python3.6/__pycache__/tokenize.cpython-36.pyc'
+# trying /home/educacion/kickthemout/re.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/re.abi3.so
+# trying /home/educacion/kickthemout/re.so
+# trying /home/educacion/kickthemout/re.py
+# trying /home/educacion/kickthemout/re.pyc
+# trying /usr/local/lib/python3.6/re.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/re.abi3.so
+# trying /usr/local/lib/python3.6/re.so
+# trying /usr/local/lib/python3.6/re.py
+# /usr/local/lib/python3.6/__pycache__/re.cpython-36.pyc matches /usr/local/lib/python3.6/re.py
+# code object from '/usr/local/lib/python3.6/__pycache__/re.cpython-36.pyc'
+# trying /home/educacion/kickthemout/enum.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/enum.abi3.so
+# trying /home/educacion/kickthemout/enum.so
+# trying /home/educacion/kickthemout/enum.py
+# trying /home/educacion/kickthemout/enum.pyc
+# trying /usr/local/lib/python3.6/enum.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/enum.abi3.so
+# trying /usr/local/lib/python3.6/enum.so
+# trying /usr/local/lib/python3.6/enum.py
+# /usr/local/lib/python3.6/__pycache__/enum.cpython-36.pyc matches /usr/local/lib/python3.6/enum.py
+# code object from '/usr/local/lib/python3.6/__pycache__/enum.cpython-36.pyc'
+import 'enum' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2710f60>
+# trying /home/educacion/kickthemout/sre_compile.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/sre_compile.abi3.so
+# trying /home/educacion/kickthemout/sre_compile.so
+# trying /home/educacion/kickthemout/sre_compile.py
+# trying /home/educacion/kickthemout/sre_compile.pyc
+# trying /usr/local/lib/python3.6/sre_compile.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/sre_compile.abi3.so
+# trying /usr/local/lib/python3.6/sre_compile.so
+# trying /usr/local/lib/python3.6/sre_compile.py
+# /usr/local/lib/python3.6/__pycache__/sre_compile.cpython-36.pyc matches /usr/local/lib/python3.6/sre_compile.py
+# code object from '/usr/local/lib/python3.6/__pycache__/sre_compile.cpython-36.pyc'
+import '_sre' # <class '_frozen_importlib.BuiltinImporter'>
+# trying /home/educacion/kickthemout/sre_parse.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/sre_parse.abi3.so
+# trying /home/educacion/kickthemout/sre_parse.so
+# trying /home/educacion/kickthemout/sre_parse.py
+# trying /home/educacion/kickthemout/sre_parse.pyc
+# trying /usr/local/lib/python3.6/sre_parse.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/sre_parse.abi3.so
+# trying /usr/local/lib/python3.6/sre_parse.so
+# trying /usr/local/lib/python3.6/sre_parse.py
+# /usr/local/lib/python3.6/__pycache__/sre_parse.cpython-36.pyc matches /usr/local/lib/python3.6/sre_parse.py
+# code object from '/usr/local/lib/python3.6/__pycache__/sre_parse.cpython-36.pyc'
+# trying /home/educacion/kickthemout/sre_constants.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/sre_constants.abi3.so
+# trying /home/educacion/kickthemout/sre_constants.so
+# trying /home/educacion/kickthemout/sre_constants.py
+# trying /home/educacion/kickthemout/sre_constants.pyc
+# trying /usr/local/lib/python3.6/sre_constants.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/sre_constants.abi3.so
+# trying /usr/local/lib/python3.6/sre_constants.so
+# trying /usr/local/lib/python3.6/sre_constants.py
+# /usr/local/lib/python3.6/__pycache__/sre_constants.cpython-36.pyc matches /usr/local/lib/python3.6/sre_constants.py
+# code object from '/usr/local/lib/python3.6/__pycache__/sre_constants.cpython-36.pyc'
+import 'sre_constants' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b26b3588>
+import 'sre_parse' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b271cda0>
+import 'sre_compile' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b271c048>
+# trying /home/educacion/kickthemout/copyreg.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/copyreg.abi3.so
+# trying /home/educacion/kickthemout/copyreg.so
+# trying /home/educacion/kickthemout/copyreg.py
+# trying /home/educacion/kickthemout/copyreg.pyc
+# trying /usr/local/lib/python3.6/copyreg.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/copyreg.abi3.so
+# trying /usr/local/lib/python3.6/copyreg.so
+# trying /usr/local/lib/python3.6/copyreg.py
+# /usr/local/lib/python3.6/__pycache__/copyreg.cpython-36.pyc matches /usr/local/lib/python3.6/copyreg.py
+# code object from '/usr/local/lib/python3.6/__pycache__/copyreg.cpython-36.pyc'
+import 'copyreg' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b26c3588>
+import 're' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2710240>
+# trying /home/educacion/kickthemout/token.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/token.abi3.so
+# trying /home/educacion/kickthemout/token.so
+# trying /home/educacion/kickthemout/token.py
+# trying /home/educacion/kickthemout/token.pyc
+# trying /usr/local/lib/python3.6/token.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/token.abi3.so
+# trying /usr/local/lib/python3.6/token.so
+# trying /usr/local/lib/python3.6/token.py
+# /usr/local/lib/python3.6/__pycache__/token.cpython-36.pyc matches /usr/local/lib/python3.6/token.py
+# code object from '/usr/local/lib/python3.6/__pycache__/token.cpython-36.pyc'
+import 'token' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b26c3860>
+import 'tokenize' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b261f3c8>
+import 'linecache' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b261f2b0>
+import 'traceback' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2610cf8>
+# trying /home/educacion/kickthemout/warnings.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/warnings.abi3.so
+# trying /home/educacion/kickthemout/warnings.so
+# trying /home/educacion/kickthemout/warnings.py
+# trying /home/educacion/kickthemout/warnings.pyc
+# trying /usr/local/lib/python3.6/warnings.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/warnings.abi3.so
+# trying /usr/local/lib/python3.6/warnings.so
+# trying /usr/local/lib/python3.6/warnings.py
+# /usr/local/lib/python3.6/__pycache__/warnings.cpython-36.pyc matches /usr/local/lib/python3.6/warnings.py
+# code object from '/usr/local/lib/python3.6/__pycache__/warnings.cpython-36.pyc'
+import 'warnings' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2752470>
+# trying /home/educacion/kickthemout/string.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/string.abi3.so
+# trying /home/educacion/kickthemout/string.so
+# trying /home/educacion/kickthemout/string.py
+# trying /home/educacion/kickthemout/string.pyc
+# trying /usr/local/lib/python3.6/string.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/string.abi3.so
+# trying /usr/local/lib/python3.6/string.so
+# trying /usr/local/lib/python3.6/string.py
+# /usr/local/lib/python3.6/__pycache__/string.cpython-36.pyc matches /usr/local/lib/python3.6/string.py
+# code object from '/usr/local/lib/python3.6/__pycache__/string.cpython-36.pyc'
+import '_string' # <class '_frozen_importlib.BuiltinImporter'>
+import 'string' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b26c3cc0>
+# trying /home/educacion/kickthemout/threading.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/threading.abi3.so
+# trying /home/educacion/kickthemout/threading.so
+# trying /home/educacion/kickthemout/threading.py
+# trying /home/educacion/kickthemout/threading.pyc
+# trying /usr/local/lib/python3.6/threading.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/threading.abi3.so
+# trying /usr/local/lib/python3.6/threading.so
+# trying /usr/local/lib/python3.6/threading.py
+# /usr/local/lib/python3.6/__pycache__/threading.cpython-36.pyc matches /usr/local/lib/python3.6/threading.py
+# code object from '/usr/local/lib/python3.6/__pycache__/threading.cpython-36.pyc'
+import 'threading' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b26db630>
+import 'atexit' # <class '_frozen_importlib.BuiltinImporter'>
+import 'logging' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b25fc390>
+# trying /home/educacion/kickthemout/math.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/math.abi3.so
+# trying /home/educacion/kickthemout/math.so
+# trying /home/educacion/kickthemout/math.py
+# trying /home/educacion/kickthemout/math.pyc
+# trying /usr/local/lib/python3.6/math.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/math.abi3.so
+# trying /usr/local/lib/python3.6/math.so
+# trying /usr/local/lib/python3.6/math.py
+# trying /usr/local/lib/python3.6/math.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/math.cpython-36m-x86_64-linux-gnu.so
+# extension module 'math' loaded from '/usr/local/lib/python3.6/lib-dynload/math.cpython-36m-x86_64-linux-gnu.so'
+# extension module 'math' executed from '/usr/local/lib/python3.6/lib-dynload/math.cpython-36m-x86_64-linux-gnu.so'
+import 'math' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b2675860>
+# trying /home/educacion/kickthemout/optparse.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/optparse.abi3.so
+# trying /home/educacion/kickthemout/optparse.so
+# trying /home/educacion/kickthemout/optparse.py
+# trying /home/educacion/kickthemout/optparse.pyc
+# trying /usr/local/lib/python3.6/optparse.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/optparse.abi3.so
+# trying /usr/local/lib/python3.6/optparse.so
+# trying /usr/local/lib/python3.6/optparse.py
+# /usr/local/lib/python3.6/__pycache__/optparse.cpython-36.pyc matches /usr/local/lib/python3.6/optparse.py
+# code object from '/usr/local/lib/python3.6/__pycache__/optparse.cpython-36.pyc'
+# trying /home/educacion/kickthemout/textwrap.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/textwrap.abi3.so
+# trying /home/educacion/kickthemout/textwrap.so
+# trying /home/educacion/kickthemout/textwrap.py
+# trying /home/educacion/kickthemout/textwrap.pyc
+# trying /usr/local/lib/python3.6/textwrap.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/textwrap.abi3.so
+# trying /usr/local/lib/python3.6/textwrap.so
+# trying /usr/local/lib/python3.6/textwrap.py
+# /usr/local/lib/python3.6/__pycache__/textwrap.cpython-36.pyc matches /usr/local/lib/python3.6/textwrap.py
+# code object from '/usr/local/lib/python3.6/__pycache__/textwrap.cpython-36.pyc'
+import 'textwrap' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b269c4a8>
+# trying /home/educacion/kickthemout/gettext.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/gettext.abi3.so
+# trying /home/educacion/kickthemout/gettext.so
+# trying /home/educacion/kickthemout/gettext.py
+# trying /home/educacion/kickthemout/gettext.pyc
+# trying /usr/local/lib/python3.6/gettext.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/gettext.abi3.so
+# trying /usr/local/lib/python3.6/gettext.so
+# trying /usr/local/lib/python3.6/gettext.py
+# /usr/local/lib/python3.6/__pycache__/gettext.cpython-36.pyc matches /usr/local/lib/python3.6/gettext.py
+# code object from '/usr/local/lib/python3.6/__pycache__/gettext.cpython-36.pyc'
+# trying /home/educacion/kickthemout/locale.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/locale.abi3.so
+# trying /home/educacion/kickthemout/locale.so
+# trying /home/educacion/kickthemout/locale.py
+# trying /home/educacion/kickthemout/locale.pyc
+# trying /usr/local/lib/python3.6/locale.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/locale.abi3.so
+# trying /usr/local/lib/python3.6/locale.so
+# trying /usr/local/lib/python3.6/locale.py
+# /usr/local/lib/python3.6/__pycache__/locale.cpython-36.pyc matches /usr/local/lib/python3.6/locale.py
+# code object from '/usr/local/lib/python3.6/__pycache__/locale.cpython-36.pyc'
+import 'locale' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b262a860>
+# trying /home/educacion/kickthemout/copy.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/copy.abi3.so
+# trying /home/educacion/kickthemout/copy.so
+# trying /home/educacion/kickthemout/copy.py
+# trying /home/educacion/kickthemout/copy.pyc
+# trying /usr/local/lib/python3.6/copy.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/copy.abi3.so
+# trying /usr/local/lib/python3.6/copy.so
+# trying /usr/local/lib/python3.6/copy.py
+# /usr/local/lib/python3.6/__pycache__/copy.cpython-36.pyc matches /usr/local/lib/python3.6/copy.py
+# code object from '/usr/local/lib/python3.6/__pycache__/copy.cpython-36.pyc'
+# trying /home/educacion/kickthemout/org.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/org.abi3.so
+# trying /home/educacion/kickthemout/org.so
+# trying /home/educacion/kickthemout/org.py
+# trying /home/educacion/kickthemout/org.pyc
+# trying /usr/local/lib/python3.6/org.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/org.abi3.so
+# trying /usr/local/lib/python3.6/org.so
+# trying /usr/local/lib/python3.6/org.py
+# trying /usr/local/lib/python3.6/org.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/org.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/org.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/org.so
+# trying /usr/local/lib/python3.6/lib-dynload/org.py
+# trying /usr/local/lib/python3.6/lib-dynload/org.pyc
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/org.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/org.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/org.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/org.py
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/org.pyc
+import 'copy' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2645978>
+# trying /home/educacion/kickthemout/struct.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/struct.abi3.so
+# trying /home/educacion/kickthemout/struct.so
+# trying /home/educacion/kickthemout/struct.py
+# trying /home/educacion/kickthemout/struct.pyc
+# trying /usr/local/lib/python3.6/struct.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/struct.abi3.so
+# trying /usr/local/lib/python3.6/struct.so
+# trying /usr/local/lib/python3.6/struct.py
+# /usr/local/lib/python3.6/__pycache__/struct.cpython-36.pyc matches /usr/local/lib/python3.6/struct.py
+# code object from '/usr/local/lib/python3.6/__pycache__/struct.cpython-36.pyc'
+# trying /home/educacion/kickthemout/_struct.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_struct.abi3.so
+# trying /home/educacion/kickthemout/_struct.so
+# trying /home/educacion/kickthemout/_struct.py
+# trying /home/educacion/kickthemout/_struct.pyc
+# trying /usr/local/lib/python3.6/_struct.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_struct.abi3.so
+# trying /usr/local/lib/python3.6/_struct.so
+# trying /usr/local/lib/python3.6/_struct.py
+# trying /usr/local/lib/python3.6/_struct.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so
+# extension module '_struct' loaded from '/usr/local/lib/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_struct' executed from '/usr/local/lib/python3.6/lib-dynload/_struct.cpython-36m-x86_64-linux-gnu.so'
+import '_struct' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b2645eb8>
+import 'struct' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2645be0>
+import 'gettext' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b269c550>
+import 'optparse' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b2687240>
+# trying /home/educacion/kickthemout/scapy.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/scapy.abi3.so
+# trying /home/educacion/kickthemout/scapy.so
+# trying /home/educacion/kickthemout/scapy.py
+# trying /home/educacion/kickthemout/scapy.pyc
+# trying /usr/local/lib/python3.6/scapy.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/scapy.abi3.so
+# trying /usr/local/lib/python3.6/scapy.so
+# trying /usr/local/lib/python3.6/scapy.py
+# trying /usr/local/lib/python3.6/scapy.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/scapy.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/scapy.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/scapy.so
+# trying /usr/local/lib/python3.6/lib-dynload/scapy.py
+# trying /usr/local/lib/python3.6/lib-dynload/scapy.pyc
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/__init__.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__init__.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/__init__.cpython-36.pyc'
+# trying /home/educacion/kickthemout/subprocess.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/subprocess.abi3.so
+# trying /home/educacion/kickthemout/subprocess.so
+# trying /home/educacion/kickthemout/subprocess.py
+# trying /home/educacion/kickthemout/subprocess.pyc
+# trying /usr/local/lib/python3.6/subprocess.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/subprocess.abi3.so
+# trying /usr/local/lib/python3.6/subprocess.so
+# trying /usr/local/lib/python3.6/subprocess.py
+# /usr/local/lib/python3.6/__pycache__/subprocess.cpython-36.pyc matches /usr/local/lib/python3.6/subprocess.py
+# code object from '/usr/local/lib/python3.6/__pycache__/subprocess.cpython-36.pyc'
+# trying /home/educacion/kickthemout/signal.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/signal.abi3.so
+# trying /home/educacion/kickthemout/signal.so
+# trying /home/educacion/kickthemout/signal.py
+# trying /home/educacion/kickthemout/signal.pyc
+# trying /usr/local/lib/python3.6/signal.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/signal.abi3.so
+# trying /usr/local/lib/python3.6/signal.so
+# trying /usr/local/lib/python3.6/signal.py
+# /usr/local/lib/python3.6/__pycache__/signal.cpython-36.pyc matches /usr/local/lib/python3.6/signal.py
+# code object from '/usr/local/lib/python3.6/__pycache__/signal.cpython-36.pyc'
+import 'signal' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b265dc88>
+# trying /home/educacion/kickthemout/_posixsubprocess.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_posixsubprocess.abi3.so
+# trying /home/educacion/kickthemout/_posixsubprocess.so
+# trying /home/educacion/kickthemout/_posixsubprocess.py
+# trying /home/educacion/kickthemout/_posixsubprocess.pyc
+# trying /usr/local/lib/python3.6/_posixsubprocess.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_posixsubprocess.abi3.so
+# trying /usr/local/lib/python3.6/_posixsubprocess.so
+# trying /usr/local/lib/python3.6/_posixsubprocess.py
+# trying /usr/local/lib/python3.6/_posixsubprocess.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_posixsubprocess.cpython-36m-x86_64-linux-gnu.so
+# extension module '_posixsubprocess' loaded from '/usr/local/lib/python3.6/lib-dynload/_posixsubprocess.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_posixsubprocess' executed from '/usr/local/lib/python3.6/lib-dynload/_posixsubprocess.cpython-36m-x86_64-linux-gnu.so'
+import '_posixsubprocess' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b1f45198>
+# trying /home/educacion/kickthemout/select.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/select.abi3.so
+# trying /home/educacion/kickthemout/select.so
+# trying /home/educacion/kickthemout/select.py
+# trying /home/educacion/kickthemout/select.pyc
+# trying /usr/local/lib/python3.6/select.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/select.abi3.so
+# trying /usr/local/lib/python3.6/select.so
+# trying /usr/local/lib/python3.6/select.py
+# trying /usr/local/lib/python3.6/select.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/select.cpython-36m-x86_64-linux-gnu.so
+# extension module 'select' loaded from '/usr/local/lib/python3.6/lib-dynload/select.cpython-36m-x86_64-linux-gnu.so'
+# extension module 'select' executed from '/usr/local/lib/python3.6/lib-dynload/select.cpython-36m-x86_64-linux-gnu.so'
+import 'select' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b1f453c8>
+# trying /home/educacion/kickthemout/selectors.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/selectors.abi3.so
+# trying /home/educacion/kickthemout/selectors.so
+# trying /home/educacion/kickthemout/selectors.py
+# trying /home/educacion/kickthemout/selectors.pyc
+# trying /usr/local/lib/python3.6/selectors.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/selectors.abi3.so
+# trying /usr/local/lib/python3.6/selectors.so
+# trying /usr/local/lib/python3.6/selectors.py
+# /usr/local/lib/python3.6/__pycache__/selectors.cpython-36.pyc matches /usr/local/lib/python3.6/selectors.py
+# code object from '/usr/local/lib/python3.6/__pycache__/selectors.cpython-36.pyc'
+import 'selectors' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b1f456d8>
+import 'subprocess' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b264d2b0>
+import 'scapy' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b264d4a8>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/config.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/config.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/config.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/config.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/config.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/config.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/config.cpython-36.pyc'
+# trying /home/educacion/kickthemout/__future__.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/__future__.abi3.so
+# trying /home/educacion/kickthemout/__future__.so
+# trying /home/educacion/kickthemout/__future__.py
+# trying /home/educacion/kickthemout/__future__.pyc
+# trying /usr/local/lib/python3.6/__future__.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/__future__.abi3.so
+# trying /usr/local/lib/python3.6/__future__.so
+# trying /usr/local/lib/python3.6/__future__.py
+# /usr/local/lib/python3.6/__pycache__/__future__.cpython-36.pyc matches /usr/local/lib/python3.6/__future__.py
+# code object from '/usr/local/lib/python3.6/__pycache__/__future__.cpython-36.pyc'
+import '__future__' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b1f64f98>
+# trying /home/educacion/kickthemout/socket.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/socket.abi3.so
+# trying /home/educacion/kickthemout/socket.so
+# trying /home/educacion/kickthemout/socket.py
+# trying /home/educacion/kickthemout/socket.pyc
+# trying /usr/local/lib/python3.6/socket.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/socket.abi3.so
+# trying /usr/local/lib/python3.6/socket.so
+# trying /usr/local/lib/python3.6/socket.py
+# /usr/local/lib/python3.6/__pycache__/socket.cpython-36.pyc matches /usr/local/lib/python3.6/socket.py
+# code object from '/usr/local/lib/python3.6/__pycache__/socket.cpython-36.pyc'
+# trying /home/educacion/kickthemout/_socket.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_socket.abi3.so
+# trying /home/educacion/kickthemout/_socket.so
+# trying /home/educacion/kickthemout/_socket.py
+# trying /home/educacion/kickthemout/_socket.pyc
+# trying /usr/local/lib/python3.6/_socket.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_socket.abi3.so
+# trying /usr/local/lib/python3.6/_socket.so
+# trying /usr/local/lib/python3.6/_socket.py
+# trying /usr/local/lib/python3.6/_socket.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_socket.cpython-36m-x86_64-linux-gnu.so
+# extension module '_socket' loaded from '/usr/local/lib/python3.6/lib-dynload/_socket.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_socket' executed from '/usr/local/lib/python3.6/lib-dynload/_socket.cpython-36m-x86_64-linux-gnu.so'
+import '_socket' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b1f71eb8>
+import 'socket' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b1f694e0>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/base_classes.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/base_classes.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/base_classes.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/base_classes.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/base_classes.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/base_classes.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/base_classes.cpython-36.pyc'
+# trying /home/educacion/kickthemout/random.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/random.abi3.so
+# trying /home/educacion/kickthemout/random.so
+# trying /home/educacion/kickthemout/random.py
+# trying /home/educacion/kickthemout/random.pyc
+# trying /usr/local/lib/python3.6/random.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/random.abi3.so
+# trying /usr/local/lib/python3.6/random.so
+# trying /usr/local/lib/python3.6/random.py
+# /usr/local/lib/python3.6/__pycache__/random.cpython-36.pyc matches /usr/local/lib/python3.6/random.py
+# code object from '/usr/local/lib/python3.6/__pycache__/random.cpython-36.pyc'
+# trying /home/educacion/kickthemout/hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/hashlib.abi3.so
+# trying /home/educacion/kickthemout/hashlib.so
+# trying /home/educacion/kickthemout/hashlib.py
+# trying /home/educacion/kickthemout/hashlib.pyc
+# trying /usr/local/lib/python3.6/hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/hashlib.abi3.so
+# trying /usr/local/lib/python3.6/hashlib.so
+# trying /usr/local/lib/python3.6/hashlib.py
+# /usr/local/lib/python3.6/__pycache__/hashlib.cpython-36.pyc matches /usr/local/lib/python3.6/hashlib.py
+# code object from '/usr/local/lib/python3.6/__pycache__/hashlib.cpython-36.pyc'
+# trying /home/educacion/kickthemout/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_hashlib.abi3.so
+# trying /home/educacion/kickthemout/_hashlib.so
+# trying /home/educacion/kickthemout/_hashlib.py
+# trying /home/educacion/kickthemout/_hashlib.pyc
+# trying /usr/local/lib/python3.6/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_hashlib.abi3.so
+# trying /usr/local/lib/python3.6/_hashlib.so
+# trying /usr/local/lib/python3.6/_hashlib.py
+# trying /usr/local/lib/python3.6/_hashlib.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.so
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.py
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.pyc
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.py
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.pyc
+# trying /home/educacion/kickthemout/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_hashlib.abi3.so
+# trying /home/educacion/kickthemout/_hashlib.so
+# trying /home/educacion/kickthemout/_hashlib.py
+# trying /home/educacion/kickthemout/_hashlib.pyc
+# trying /usr/local/lib/python3.6/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_hashlib.abi3.so
+# trying /usr/local/lib/python3.6/_hashlib.so
+# trying /usr/local/lib/python3.6/_hashlib.py
+# trying /usr/local/lib/python3.6/_hashlib.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.so
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.py
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.pyc
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.py
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.pyc
+# trying /home/educacion/kickthemout/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_hashlib.abi3.so
+# trying /home/educacion/kickthemout/_hashlib.so
+# trying /home/educacion/kickthemout/_hashlib.py
+# trying /home/educacion/kickthemout/_hashlib.pyc
+# trying /usr/local/lib/python3.6/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_hashlib.abi3.so
+# trying /usr/local/lib/python3.6/_hashlib.so
+# trying /usr/local/lib/python3.6/_hashlib.py
+# trying /usr/local/lib/python3.6/_hashlib.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.so
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.py
+# trying /usr/local/lib/python3.6/lib-dynload/_hashlib.pyc
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.py
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_hashlib.pyc
+# trying /home/educacion/kickthemout/_md5.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_md5.abi3.so
+# trying /home/educacion/kickthemout/_md5.so
+# trying /home/educacion/kickthemout/_md5.py
+# trying /home/educacion/kickthemout/_md5.pyc
+# trying /usr/local/lib/python3.6/_md5.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_md5.abi3.so
+# trying /usr/local/lib/python3.6/_md5.so
+# trying /usr/local/lib/python3.6/_md5.py
+# trying /usr/local/lib/python3.6/_md5.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_md5.cpython-36m-x86_64-linux-gnu.so
+# extension module '_md5' loaded from '/usr/local/lib/python3.6/lib-dynload/_md5.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_md5' executed from '/usr/local/lib/python3.6/lib-dynload/_md5.cpython-36m-x86_64-linux-gnu.so'
+import '_md5' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b18f1c50>
+# trying /home/educacion/kickthemout/_sha1.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_sha1.abi3.so
+# trying /home/educacion/kickthemout/_sha1.so
+# trying /home/educacion/kickthemout/_sha1.py
+# trying /home/educacion/kickthemout/_sha1.pyc
+# trying /usr/local/lib/python3.6/_sha1.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_sha1.abi3.so
+# trying /usr/local/lib/python3.6/_sha1.so
+# trying /usr/local/lib/python3.6/_sha1.py
+# trying /usr/local/lib/python3.6/_sha1.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_sha1.cpython-36m-x86_64-linux-gnu.so
+# extension module '_sha1' loaded from '/usr/local/lib/python3.6/lib-dynload/_sha1.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_sha1' executed from '/usr/local/lib/python3.6/lib-dynload/_sha1.cpython-36m-x86_64-linux-gnu.so'
+import '_sha1' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b18f1d68>
+# trying /home/educacion/kickthemout/_sha256.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_sha256.abi3.so
+# trying /home/educacion/kickthemout/_sha256.so
+# trying /home/educacion/kickthemout/_sha256.py
+# trying /home/educacion/kickthemout/_sha256.pyc
+# trying /usr/local/lib/python3.6/_sha256.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_sha256.abi3.so
+# trying /usr/local/lib/python3.6/_sha256.so
+# trying /usr/local/lib/python3.6/_sha256.py
+# trying /usr/local/lib/python3.6/_sha256.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_sha256.cpython-36m-x86_64-linux-gnu.so
+# extension module '_sha256' loaded from '/usr/local/lib/python3.6/lib-dynload/_sha256.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_sha256' executed from '/usr/local/lib/python3.6/lib-dynload/_sha256.cpython-36m-x86_64-linux-gnu.so'
+import '_sha256' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b18f1e48>
+# trying /home/educacion/kickthemout/_sha512.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_sha512.abi3.so
+# trying /home/educacion/kickthemout/_sha512.so
+# trying /home/educacion/kickthemout/_sha512.py
+# trying /home/educacion/kickthemout/_sha512.pyc
+# trying /usr/local/lib/python3.6/_sha512.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_sha512.abi3.so
+# trying /usr/local/lib/python3.6/_sha512.so
+# trying /usr/local/lib/python3.6/_sha512.py
+# trying /usr/local/lib/python3.6/_sha512.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_sha512.cpython-36m-x86_64-linux-gnu.so
+# extension module '_sha512' loaded from '/usr/local/lib/python3.6/lib-dynload/_sha512.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_sha512' executed from '/usr/local/lib/python3.6/lib-dynload/_sha512.cpython-36m-x86_64-linux-gnu.so'
+import '_sha512' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b18f1f60>
+# trying /home/educacion/kickthemout/_blake2.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_blake2.abi3.so
+# trying /home/educacion/kickthemout/_blake2.so
+# trying /home/educacion/kickthemout/_blake2.py
+# trying /home/educacion/kickthemout/_blake2.pyc
+# trying /usr/local/lib/python3.6/_blake2.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_blake2.abi3.so
+# trying /usr/local/lib/python3.6/_blake2.so
+# trying /usr/local/lib/python3.6/_blake2.py
+# trying /usr/local/lib/python3.6/_blake2.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_blake2.cpython-36m-x86_64-linux-gnu.so
+# extension module '_blake2' loaded from '/usr/local/lib/python3.6/lib-dynload/_blake2.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_blake2' executed from '/usr/local/lib/python3.6/lib-dynload/_blake2.cpython-36m-x86_64-linux-gnu.so'
+import '_blake2' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b18f90b8>
+# trying /home/educacion/kickthemout/_sha3.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_sha3.abi3.so
+# trying /home/educacion/kickthemout/_sha3.so
+# trying /home/educacion/kickthemout/_sha3.py
+# trying /home/educacion/kickthemout/_sha3.pyc
+# trying /usr/local/lib/python3.6/_sha3.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_sha3.abi3.so
+# trying /usr/local/lib/python3.6/_sha3.so
+# trying /usr/local/lib/python3.6/_sha3.py
+# trying /usr/local/lib/python3.6/_sha3.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_sha3.cpython-36m-x86_64-linux-gnu.so
+# extension module '_sha3' loaded from '/usr/local/lib/python3.6/lib-dynload/_sha3.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_sha3' executed from '/usr/local/lib/python3.6/lib-dynload/_sha3.cpython-36m-x86_64-linux-gnu.so'
+import '_sha3' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b18f91d0>
+import 'hashlib' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b18f1208>
+# trying /home/educacion/kickthemout/bisect.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/bisect.abi3.so
+# trying /home/educacion/kickthemout/bisect.so
+# trying /home/educacion/kickthemout/bisect.py
+# trying /home/educacion/kickthemout/bisect.pyc
+# trying /usr/local/lib/python3.6/bisect.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/bisect.abi3.so
+# trying /usr/local/lib/python3.6/bisect.so
+# trying /usr/local/lib/python3.6/bisect.py
+# /usr/local/lib/python3.6/__pycache__/bisect.cpython-36.pyc matches /usr/local/lib/python3.6/bisect.py
+# code object from '/usr/local/lib/python3.6/__pycache__/bisect.cpython-36.pyc'
+# trying /home/educacion/kickthemout/_bisect.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_bisect.abi3.so
+# trying /home/educacion/kickthemout/_bisect.so
+# trying /home/educacion/kickthemout/_bisect.py
+# trying /home/educacion/kickthemout/_bisect.pyc
+# trying /usr/local/lib/python3.6/_bisect.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_bisect.abi3.so
+# trying /usr/local/lib/python3.6/_bisect.so
+# trying /usr/local/lib/python3.6/_bisect.py
+# trying /usr/local/lib/python3.6/_bisect.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_bisect.cpython-36m-x86_64-linux-gnu.so
+# extension module '_bisect' loaded from '/usr/local/lib/python3.6/lib-dynload/_bisect.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_bisect' executed from '/usr/local/lib/python3.6/lib-dynload/_bisect.cpython-36m-x86_64-linux-gnu.so'
+import '_bisect' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b18f94e0>
+import 'bisect' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b18f16a0>
+# trying /home/educacion/kickthemout/_random.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_random.abi3.so
+# trying /home/educacion/kickthemout/_random.so
+# trying /home/educacion/kickthemout/_random.py
+# trying /home/educacion/kickthemout/_random.pyc
+# trying /usr/local/lib/python3.6/_random.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_random.abi3.so
+# trying /usr/local/lib/python3.6/_random.so
+# trying /usr/local/lib/python3.6/_random.py
+# trying /usr/local/lib/python3.6/_random.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_random.cpython-36m-x86_64-linux-gnu.so
+# extension module '_random' loaded from '/usr/local/lib/python3.6/lib-dynload/_random.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_random' executed from '/usr/local/lib/python3.6/lib-dynload/_random.cpython-36m-x86_64-linux-gnu.so'
+import '_random' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b18f1ac8>
+import 'random' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b18e7a20>
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/__pycache__/__init__.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/__init__.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/__pycache__/__init__.cpython-36.pyc'
+import 'scapy.modules' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b18f9470>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/six.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/six.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/six.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/six.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/__pycache__/six.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/six.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/modules/__pycache__/six.cpython-36.pyc'
+import 'scapy.modules.six' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b18f9668>
+import 'scapy.base_classes' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b1f696d8>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/consts.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/consts.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/consts.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/consts.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/consts.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/consts.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/consts.cpython-36.pyc'
+# trying /home/educacion/kickthemout/platform.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/platform.abi3.so
+# trying /home/educacion/kickthemout/platform.so
+# trying /home/educacion/kickthemout/platform.py
+# trying /home/educacion/kickthemout/platform.pyc
+# trying /usr/local/lib/python3.6/platform.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/platform.abi3.so
+# trying /usr/local/lib/python3.6/platform.so
+# trying /usr/local/lib/python3.6/platform.py
+# /usr/local/lib/python3.6/__pycache__/platform.cpython-36.pyc matches /usr/local/lib/python3.6/platform.py
+# code object from '/usr/local/lib/python3.6/__pycache__/platform.cpython-36.pyc'
+import 'platform' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b1908470>
+import 'scapy.consts' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b18f9f60>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/data.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/data.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/data.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/data.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/data.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/data.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/data.cpython-36.pyc'
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/dadict.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/dadict.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/dadict.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/dadict.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/dadict.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/dadict.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/dadict.cpython-36.pyc'
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/error.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/error.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/error.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/error.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/error.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/error.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/error.cpython-36.pyc'
+import 'scapy.error' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b0887cc0>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/compat.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/compat.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/compat.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/compat.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/compat.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/compat.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/compat.cpython-36.pyc'
+# trying /home/educacion/kickthemout/base64.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/base64.abi3.so
+# trying /home/educacion/kickthemout/base64.so
+# trying /home/educacion/kickthemout/base64.py
+# trying /home/educacion/kickthemout/base64.pyc
+# trying /usr/local/lib/python3.6/base64.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/base64.abi3.so
+# trying /usr/local/lib/python3.6/base64.so
+# trying /usr/local/lib/python3.6/base64.py
+# /usr/local/lib/python3.6/__pycache__/base64.cpython-36.pyc matches /usr/local/lib/python3.6/base64.py
+# code object from '/usr/local/lib/python3.6/__pycache__/base64.cpython-36.pyc'
+# trying /home/educacion/kickthemout/binascii.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/binascii.abi3.so
+# trying /home/educacion/kickthemout/binascii.so
+# trying /home/educacion/kickthemout/binascii.py
+# trying /home/educacion/kickthemout/binascii.pyc
+# trying /usr/local/lib/python3.6/binascii.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/binascii.abi3.so
+# trying /usr/local/lib/python3.6/binascii.so
+# trying /usr/local/lib/python3.6/binascii.py
+# trying /usr/local/lib/python3.6/binascii.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/binascii.cpython-36m-x86_64-linux-gnu.so
+# extension module 'binascii' loaded from '/usr/local/lib/python3.6/lib-dynload/binascii.cpython-36m-x86_64-linux-gnu.so'
+# extension module 'binascii' executed from '/usr/local/lib/python3.6/lib-dynload/binascii.cpython-36m-x86_64-linux-gnu.so'
+import 'binascii' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b0882e80>
+import 'base64' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b087de80>
+import 'scapy.compat' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b087d160>
+import 'scapy.dadict' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b08870f0>
+import 'scapy.data' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b1908668>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/themes.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/themes.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/themes.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/themes.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/themes.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/themes.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/themes.cpython-36.pyc'
+import 'scapy.themes' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b0897f28>
+# trying /home/educacion/kickthemout/__pypy__.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/__pypy__.abi3.so
+# trying /home/educacion/kickthemout/__pypy__.so
+# trying /home/educacion/kickthemout/__pypy__.py
+# trying /home/educacion/kickthemout/__pypy__.pyc
+# trying /usr/local/lib/python3.6/__pypy__.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/__pypy__.abi3.so
+# trying /usr/local/lib/python3.6/__pypy__.so
+# trying /usr/local/lib/python3.6/__pypy__.py
+# trying /usr/local/lib/python3.6/__pypy__.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/__pypy__.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/__pypy__.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/__pypy__.so
+# trying /usr/local/lib/python3.6/lib-dynload/__pypy__.py
+# trying /usr/local/lib/python3.6/lib-dynload/__pypy__.pyc
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/__pypy__.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/__pypy__.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/__pypy__.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/__pypy__.py
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/__pypy__.pyc
+# trying /home/educacion/kickthemout/cryptography.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/cryptography.abi3.so
+# trying /home/educacion/kickthemout/cryptography.so
+# trying /home/educacion/kickthemout/cryptography.py
+# trying /home/educacion/kickthemout/cryptography.pyc
+# trying /usr/local/lib/python3.6/cryptography.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/cryptography.abi3.so
+# trying /usr/local/lib/python3.6/cryptography.so
+# trying /usr/local/lib/python3.6/cryptography.py
+# trying /usr/local/lib/python3.6/cryptography.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.so
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.py
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.pyc
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.py
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.pyc
+# trying /home/educacion/kickthemout/cryptography.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/cryptography.abi3.so
+# trying /home/educacion/kickthemout/cryptography.so
+# trying /home/educacion/kickthemout/cryptography.py
+# trying /home/educacion/kickthemout/cryptography.pyc
+# trying /usr/local/lib/python3.6/cryptography.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/cryptography.abi3.so
+# trying /usr/local/lib/python3.6/cryptography.so
+# trying /usr/local/lib/python3.6/cryptography.py
+# trying /usr/local/lib/python3.6/cryptography.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.so
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.py
+# trying /usr/local/lib/python3.6/lib-dynload/cryptography.pyc
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.py
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/cryptography.pyc
+import 'scapy.config' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b265d358>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/all.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/all.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/all.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/all.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/all.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/all.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/all.cpython-36.pyc'
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/__pycache__/__init__.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/__init__.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/__pycache__/__init__.cpython-36.pyc'
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/pton_ntop.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/pton_ntop.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/pton_ntop.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/pton_ntop.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/pton_ntop.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/pton_ntop.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/__pycache__/pton_ntop.cpython-36.pyc'
+import 'scapy.pton_ntop' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b08a3e10>
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/__pycache__/__init__.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/__init__.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/__pycache__/__init__.cpython-36.pyc'
+import 'scapy.arch.bpf' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b062c3c8>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/core.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/core.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/core.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/core.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/__pycache__/core.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/core.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/__pycache__/core.cpython-36.pyc'
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/common.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/common.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/common.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/common.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/__pycache__/common.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/common.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/__pycache__/common.cpython-36.pyc'
+# trying /home/educacion/kickthemout/fcntl.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/fcntl.abi3.so
+# trying /home/educacion/kickthemout/fcntl.so
+# trying /home/educacion/kickthemout/fcntl.py
+# trying /home/educacion/kickthemout/fcntl.pyc
+# trying /usr/local/lib/python3.6/fcntl.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/fcntl.abi3.so
+# trying /usr/local/lib/python3.6/fcntl.so
+# trying /usr/local/lib/python3.6/fcntl.py
+# trying /usr/local/lib/python3.6/fcntl.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/fcntl.cpython-36m-x86_64-linux-gnu.so
+# extension module 'fcntl' loaded from '/usr/local/lib/python3.6/lib-dynload/fcntl.cpython-36m-x86_64-linux-gnu.so'
+# extension module 'fcntl' executed from '/usr/local/lib/python3.6/lib-dynload/fcntl.cpython-36m-x86_64-linux-gnu.so'
+import 'fcntl' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b06312b0>
+# trying /home/educacion/kickthemout/ctypes.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/ctypes.abi3.so
+# trying /home/educacion/kickthemout/ctypes.so
+# trying /home/educacion/kickthemout/ctypes.py
+# trying /home/educacion/kickthemout/ctypes.pyc
+# /usr/local/lib/python3.6/ctypes/__pycache__/__init__.cpython-36.pyc matches /usr/local/lib/python3.6/ctypes/__init__.py
+# code object from '/usr/local/lib/python3.6/ctypes/__pycache__/__init__.cpython-36.pyc'
+# trying /home/educacion/kickthemout/_ctypes.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_ctypes.abi3.so
+# trying /home/educacion/kickthemout/_ctypes.so
+# trying /home/educacion/kickthemout/_ctypes.py
+# trying /home/educacion/kickthemout/_ctypes.pyc
+# trying /usr/local/lib/python3.6/_ctypes.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_ctypes.abi3.so
+# trying /usr/local/lib/python3.6/_ctypes.so
+# trying /usr/local/lib/python3.6/_ctypes.py
+# trying /usr/local/lib/python3.6/_ctypes.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_ctypes.cpython-36m-x86_64-linux-gnu.so
+# extension module '_ctypes' loaded from '/usr/local/lib/python3.6/lib-dynload/_ctypes.cpython-36m-x86_64-linux-gnu.so'
+# extension module '_ctypes' executed from '/usr/local/lib/python3.6/lib-dynload/_ctypes.cpython-36m-x86_64-linux-gnu.so'
+import '_ctypes' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b063f588>
+# trying /usr/local/lib/python3.6/ctypes/_endian.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/ctypes/_endian.abi3.so
+# trying /usr/local/lib/python3.6/ctypes/_endian.so
+# trying /usr/local/lib/python3.6/ctypes/_endian.py
+# /usr/local/lib/python3.6/ctypes/__pycache__/_endian.cpython-36.pyc matches /usr/local/lib/python3.6/ctypes/_endian.py
+# code object from '/usr/local/lib/python3.6/ctypes/__pycache__/_endian.cpython-36.pyc'
+import 'ctypes._endian' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b064d710>
+import 'ctypes' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b06319e8>
+import 'scapy.arch.common' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b062ccf8>
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/consts.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/consts.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/consts.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/consts.py
+# /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/__pycache__/consts.cpython-36.pyc matches /home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/consts.py
+# code object from '/home/educacion/kickthemout/venv/lib/python3.6/site-packages/scapy/arch/bpf/__pycache__/consts.cpython-36.pyc'
+import 'scapy.arch.bpf.consts' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b0637908>
+# trying /usr/local/lib/python3.6/ctypes/util.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/ctypes/util.abi3.so
+# trying /usr/local/lib/python3.6/ctypes/util.so
+# trying /usr/local/lib/python3.6/ctypes/util.py
+# /usr/local/lib/python3.6/ctypes/__pycache__/util.cpython-36.pyc matches /usr/local/lib/python3.6/ctypes/util.py
+# code object from '/usr/local/lib/python3.6/ctypes/__pycache__/util.cpython-36.pyc'
+# trying /home/educacion/kickthemout/shutil.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/shutil.abi3.so
+# trying /home/educacion/kickthemout/shutil.so
+# trying /home/educacion/kickthemout/shutil.py
+# trying /home/educacion/kickthemout/shutil.pyc
+# trying /usr/local/lib/python3.6/shutil.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/shutil.abi3.so
+# trying /usr/local/lib/python3.6/shutil.so
+# trying /usr/local/lib/python3.6/shutil.py
+# /usr/local/lib/python3.6/__pycache__/shutil.cpython-36.pyc matches /usr/local/lib/python3.6/shutil.py
+# code object from '/usr/local/lib/python3.6/__pycache__/shutil.cpython-36.pyc'
+# trying /home/educacion/kickthemout/fnmatch.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/fnmatch.abi3.so
+# trying /home/educacion/kickthemout/fnmatch.so
+# trying /home/educacion/kickthemout/fnmatch.py
+# trying /home/educacion/kickthemout/fnmatch.pyc
+# trying /usr/local/lib/python3.6/fnmatch.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/fnmatch.abi3.so
+# trying /usr/local/lib/python3.6/fnmatch.so
+# trying /usr/local/lib/python3.6/fnmatch.py
+# /usr/local/lib/python3.6/__pycache__/fnmatch.cpython-36.pyc matches /usr/local/lib/python3.6/fnmatch.py
+# code object from '/usr/local/lib/python3.6/__pycache__/fnmatch.cpython-36.pyc'
+import 'fnmatch' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b0660940>
+# trying /home/educacion/kickthemout/tarfile.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/tarfile.abi3.so
+# trying /home/educacion/kickthemout/tarfile.so
+# trying /home/educacion/kickthemout/tarfile.py
+# trying /home/educacion/kickthemout/tarfile.pyc
+# trying /usr/local/lib/python3.6/tarfile.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/tarfile.abi3.so
+# trying /usr/local/lib/python3.6/tarfile.so
+# trying /usr/local/lib/python3.6/tarfile.py
+# /usr/local/lib/python3.6/__pycache__/tarfile.cpython-36.pyc matches /usr/local/lib/python3.6/tarfile.py
+# code object from '/usr/local/lib/python3.6/__pycache__/tarfile.cpython-36.pyc'
+# trying /home/educacion/kickthemout/grp.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/grp.abi3.so
+# trying /home/educacion/kickthemout/grp.so
+# trying /home/educacion/kickthemout/grp.py
+# trying /home/educacion/kickthemout/grp.pyc
+# trying /usr/local/lib/python3.6/grp.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/grp.abi3.so
+# trying /usr/local/lib/python3.6/grp.so
+# trying /usr/local/lib/python3.6/grp.py
+# trying /usr/local/lib/python3.6/grp.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/grp.cpython-36m-x86_64-linux-gnu.so
+# extension module 'grp' loaded from '/usr/local/lib/python3.6/lib-dynload/grp.cpython-36m-x86_64-linux-gnu.so'
+# extension module 'grp' executed from '/usr/local/lib/python3.6/lib-dynload/grp.cpython-36m-x86_64-linux-gnu.so'
+import 'grp' # <_frozen_importlib_external.ExtensionFileLoader object at 0x7f54b01dc390>
+import 'pwd' # <class '_frozen_importlib.BuiltinImporter'>
+import 'tarfile' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b0660c88>
+# trying /home/educacion/kickthemout/bz2.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/bz2.abi3.so
+# trying /home/educacion/kickthemout/bz2.so
+# trying /home/educacion/kickthemout/bz2.py
+# trying /home/educacion/kickthemout/bz2.pyc
+# trying /usr/local/lib/python3.6/bz2.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/bz2.abi3.so
+# trying /usr/local/lib/python3.6/bz2.so
+# trying /usr/local/lib/python3.6/bz2.py
+# /usr/local/lib/python3.6/__pycache__/bz2.cpython-36.pyc matches /usr/local/lib/python3.6/bz2.py
+# code object from '/usr/local/lib/python3.6/__pycache__/bz2.cpython-36.pyc'
+# trying /home/educacion/kickthemout/_compression.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_compression.abi3.so
+# trying /home/educacion/kickthemout/_compression.so
+# trying /home/educacion/kickthemout/_compression.py
+# trying /home/educacion/kickthemout/_compression.pyc
+# trying /usr/local/lib/python3.6/_compression.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_compression.abi3.so
+# trying /usr/local/lib/python3.6/_compression.so
+# trying /usr/local/lib/python3.6/_compression.py
+# /usr/local/lib/python3.6/__pycache__/_compression.cpython-36.pyc matches /usr/local/lib/python3.6/_compression.py
+# code object from '/usr/local/lib/python3.6/__pycache__/_compression.cpython-36.pyc'
+import '_compression' # <_frozen_importlib_external.SourceFileLoader object at 0x7f54b01ef240>
+# trying /home/educacion/kickthemout/_bz2.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/_bz2.abi3.so
+# trying /home/educacion/kickthemout/_bz2.so
+# trying /home/educacion/kickthemout/_bz2.py
+# trying /home/educacion/kickthemout/_bz2.pyc
+# trying /usr/local/lib/python3.6/_bz2.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/_bz2.abi3.so
+# trying /usr/local/lib/python3.6/_bz2.so
+# trying /usr/local/lib/python3.6/_bz2.py
+# trying /usr/local/lib/python3.6/_bz2.pyc
+# trying /usr/local/lib/python3.6/lib-dynload/_bz2.cpython-36m-x86_64-linux-gnu.so
+# trying /usr/local/lib/python3.6/lib-dynload/_bz2.abi3.so
+# trying /usr/local/lib/python3.6/lib-dynload/_bz2.so
+# trying /usr/local/lib/python3.6/lib-dynload/_bz2.py
+# trying /usr/local/lib/python3.6/lib-dynload/_bz2.pyc
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_bz2.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_bz2.abi3.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_bz2.so
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_bz2.py
+# trying /home/educacion/kickthemout/venv/lib/python3.6/site-packages/_bz2.pyc
+# destroy bz2
+# trying /home/educacion/kickthemout/lzma.cpython-36m-x86_64-linux-gnu.so
+# trying /home/educacion/kickthemout/lzma.abi3.so
